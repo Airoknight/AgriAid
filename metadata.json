@@ -1,0 +1,7 @@
+{
+  "name": "Copy of AgriAid Plant Disease Detector",
+  "description": "An AI-powered assistant for farmers to identify potential plant diseases based on crop type, planting date, and location. It visualizes diseases and provides actionable treatment plans with text-to-speech support.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
